@@ -1,0 +1,269 @@
+body {
+	overflow-x: hidden;
+    padding: 0%;
+    background-attachment: fixed;
+    margin: 0;
+}
+.menu{
+    background: #5b6169;
+    width: 100%;
+}
+.TEST_TASK_ {
+    padding: 20px;
+    font-size:26px;
+    font-family: "Myriad Pro";
+    color: #b0b5c0;
+    line-height: 1.2;
+    text-shadow: 2px 1px 2px rgba(0, 0, 0, 0.5);
+}
+.template {
+    font-size: 14px;
+    font-family: "Myriad Pro";
+    color: rgb(24, 27, 33);
+    line-height: 1.2;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);
+
+  }   
+  .header{
+    background-size: cover;
+    width: 100%;
+    height: 471px;
+  } 
+  #myCarousel-indicators > li {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    background-color: #3674ba;
+    position: relative;
+    left: 29%;
+  }   
+.Lorem{
+    font-size:  22px;
+    font-family: "OpenSans";
+    color: rgb(51, 85, 101);
+    line-height: 1.167;
+    text-align: justify Left;
+    text-align: left;
+    position: relative;
+    top:-35%;
+  }
+  .iOS{
+    font-size:2.5vw;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+    margin-top: 35%;
+    text-align: left;
+    position: relative;
+    top:-35%;
+  }
+  .more_info{
+    background-color: rgba(54, 116, 186, 0.502);
+    width: 127px;
+    height: 8%;
+    border: 0px;
+    position: absolute;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    line-height: 1.2;
+    margin-top: -20%;
+    text-align: center;
+    right: 43%;
+  } 
+   
+.title {
+    font-size:2.5vw;
+    font-family: "OpenSans";
+    color: rgb(91, 97, 105);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+  }
+  .Heading {
+    font-size:1vw;
+    font-family: "OpenSans";
+    color: rgb(54, 116, 186);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: center;
+    padding-bottom: 17px;
+  }
+  .img{
+    padding-top: 34px;
+    padding-bottom: 27px;
+  }
+  .text{
+    font-size:13px;
+    font-family: "Arial";
+    color: rgb(78, 78, 78);
+    line-height: 1.286;
+    padding-bottom: 19px;
+  }
+  .about{
+    background-color: white;
+    text-align: center;
+    padding-top: 62px;
+    max-height: 1000px;
+  }
+  .line1 {
+   padding-right: 17px;
+  }
+  .line2 {
+    padding-left: 17px;
+  }
+  .button{
+    background-color: rgb(54, 116, 186);
+    width: 127px;
+    height: 30px;
+    margin-top: -30px;
+    left: 28%;
+    position: absolute;
+    font-family: "OpenSans";
+    color: rgb(255, 255, 255);
+    border: 2px;
+    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+  }
+  .content2{
+    background-color: #d1d1d1;
+    text-align: center;
+    padding-top: 63px;
+  }
+  .Test_task{
+    font-size:1.5vw;
+    font-family: "Myriad Pro";
+    color: rgb(124, 124, 124);
+    line-height: 1.2;
+    text-align: left;
+    padding-top: 40px;
+  }
+  .text2 {
+    font-size:15px;
+    font-family: "Arial";
+    color: rgb(78, 78, 78);
+    text-align: justify;
+  }
+  .Skills{
+    font-size: 24px;
+    font-family: "OpenSans";
+    color: rgb(54, 116, 186);
+    text-transform: uppercase;
+    line-height: 1.2;
+    text-align: left;
+  }
+  #myProgress1 {
+    width: 100%;
+    background-color: #828181;
+  }
+  #myBar1, #myBar2, #myBar3, #myBar4{
+    height: 30px;
+    background-color: #3674ba;
+    text-align: left;
+    line-height: 30px;
+    color: white;
+    font-size:15px;  
+    font-family: "OpenSans";
+  }
+  #myBar1{
+    width: 94%;
+  }
+  #myBar2{
+    width: 96%;
+  }
+  #myBar3{
+    width: 90%;
+  }
+  #myBar4{
+    width: 88%;
+  }
+  .Rectangle{
+    background-color: rgb(241, 241, 241);
+    width: 460px;
+    height: 34px;
+    margin-bottom: 10px;
+  }
+  .Rectangle1{
+    background-color: rgb(241, 241, 241);
+    width: 460px;
+    height: 34px;
+    margin-bottom: 10px;
+  }
+  .Rectangle2{
+    background-color: rgb(241, 241, 241);
+    width: 460px;
+    height: 185px;
+  }
+  #textleft{
+    font-family: "OpenSans";
+    color: rgb(123, 123, 123);
+    text-align: left;
+    padding-bottom: 30%;
+  }
+.Map{
+  width: 458px;
+  height: 150px;
+}
+.button2{
+  background-color: rgb(54, 116, 186);
+  width: 92px;
+  height: 30px;
+  transition: 0.5s;
+  font-size: 14px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  border: 0px;
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  margin-left: 105%;
+  }
+.down{
+  background: #ffff;  
+  text-align: center;
+
+  }
+.Copyrights_here {
+  font-size: 15px;
+  font-family: "Myriad Pro";
+  color: rgb(111, 111, 111);
+  line-height: 2;
+  text-align: center;
+  padding-top: 33px;
+  }
+
+  @media screen and (max-width: 1024px){
+  .TEST_TASK_{font-size: 15px; padding: 2px;}
+  .Lorem {font-size: 13px; margin-bottom: -20px; margin-left: 80px;}
+  .iOS{font-size: 20px;margin-left: 80px; margin-left: 80px;}
+  .more_info{width: 80px; height: 20px; margin-left: 80px;}
+  #myCarousel-indicators > li {width: 7px; height: 7px;}
+  .Heading{font-size: 18px;}
+  .title{font-size: 22px;}
+  .text{font-size: 12px;}
+  .more_info{margin-top: -25px;}
+  .button{margin-top: -30px; width: 100px; height: 23px; margin-left: 30px;}
+  .text2{font-size: 15px;}
+  .Test_task{font-size: 23px;}
+  .Map{ width: 600px; padding-top: 10px; padding-bottom: 10px;}
+  .Rectangle{height: 30px; width: 600px;}
+  .Rectangle1{height: 30px; width: 600px;}
+  .Rectangle2{height: 30px; width: 600px;}
+  .button2{margin-left: 370px;}
+  .line1{width: 20%;}
+  .line2{width: 20%;}
+
+  @media screen and (max-width: 750px){
+  .title{font-size:16px; margin-top: -40px;}
+  .line1{width: 20%;}
+  .line2{width: 20%;}
+  .about{margin-top: -10px;}
+  .Map{width: 330px; padding-top: 10px; padding-bottom: 5px;}
+  .Rectangle{height: 25px; width: 330px; font-size: 12px; padding-top: -15px; }
+  .Rectangle1{height: 25px; width: 330px; font-size: 12px; padding-top: -15px;}
+  .Rectangle2{height: 25px; width: 330px; font-size: 12px; padding-top: -15px; }
+  .button2{margin-left: 237px;}
+  .Test_task{font-size: 20px; margin-top: -40px;}
+  .text2{font-size: 12px;}
+  .Skills{font-size: 20px;}
+  .img{width: 20%;}
+  }
+}
